@@ -72,8 +72,8 @@ You can enable cheats or features by using a poke to address `30` before running
     bload "Soundmem2" 0 $797c
     bload "Soundmem3" 0 $7a90
     Bload "Intercept Functionkey v2" 0 $5d41
-    bload "Intercept joystick inflight" 0 5934
-    bload "Intercept bomb drop" 0 63d7
+    Bload "Intercept joystick inflight" 0 $5934
+    Bload "Intercept bomb drop" 0 $63d7
     Bload "intercept xmovement" 0 $5a04
     Bload "Intercept in Menu" 0 $7173
     Bload "Intercept in Game" 0 $4617
